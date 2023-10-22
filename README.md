@@ -5,7 +5,7 @@ Implementing the T5 sequence-to-sequence model on an imperfect dataset of Indone
 ## Pre-requisites
 
 - Google API Key: To use the Google Reverse Geocoding API for labelling addresses, you must obtain an API key from the Google Cloud Console.
-- Python 3
+- Python 3.x
 - A suitable environment to run .ipynb files (e.g. Jupyter, Google Colab)
 
 ## Description

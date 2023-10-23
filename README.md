@@ -1,4 +1,4 @@
-# Address-Standardisation
+# Address Standardisation of Indonesian Addresses
 
 Implementing the T5 sequence-to-sequence model on an imperfect dataset of Indonesian Addresses with the help of reverse geocoding.
 
